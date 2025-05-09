@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+## Alterações
+Preferi alterar o código para não pedir as horas estacionadas, agora o sistema irá comparar o horário de entrada com o horário de saída e o cálculo será baseado nos minutos estacionados. Futuramente pode ser melhorado para o calculo ser baseado em faixas de minutos (Ex: Faixas de 15 min). Adicionado também tratativas para caso o usuário insira valores inválidos nos inputs.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
